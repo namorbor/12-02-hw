@@ -45,7 +45,8 @@ customer         | customer_id
 
 ### Выполнение второго задания
 
-|customer|customer_id|
+| Название таблицы | Название первичного ключа |
+|---|---|
 |actor|actor_id|
 |address|address_id|
 |category|category_id|
@@ -67,4 +68,4 @@ customer         | customer_id
 
 
 
-![Скриншот-5](https://github.com/namorbor/12-02-hw/blob/main/img/5.jpg)
+![Скриншот-5](https://github.com/namorbor/12-02-hw/blob/main/img/5.png)
