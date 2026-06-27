@@ -45,7 +45,7 @@ customer         | customer_id
 
 ### Выполнение второго задания
 
-|customercustomer_id|
+|customer|customer_id|
 |actor|actor_id|
 |address|address_id|
 |category|category_id|
